@@ -1,2 +1,0 @@
-primitive-footer-tag-manager
-============================
